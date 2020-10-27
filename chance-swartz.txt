@@ -90,8 +90,11 @@ Finished Codepen: https://codepen.io/chance10113/pen/VwjboXd?editors=1100
         add changes throguh git add .
         commit changes with noted messages to yourself with git commit -m "message"
         push the change back to remote repo on github woth git push -u origin branch-name
-        Go back to your forked project, click branch master button, select your named branch, and click create pull request
-        
+        Go back to your forked project, click branch master button, select your named branch, and click New pull request
+        When there, change the base repo to the forked one
+        Write description (if necessarry)
+        Click create pull request.
+
 
 Stretch Questions
 
